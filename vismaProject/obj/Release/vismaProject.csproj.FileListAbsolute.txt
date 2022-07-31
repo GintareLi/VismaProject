@@ -1,0 +1,11 @@
+C:\Users\glide\source\repos\vismaProject\vismaProject\bin\Release\vismaProject.exe.config
+C:\Users\glide\source\repos\vismaProject\vismaProject\bin\Release\vismaProject.exe
+C:\Users\glide\source\repos\vismaProject\vismaProject\bin\Release\vismaProject.pdb
+C:\Users\glide\source\repos\vismaProject\vismaProject\bin\Release\Newtonsoft.Json.dll
+C:\Users\glide\source\repos\vismaProject\vismaProject\bin\Release\Newtonsoft.Json.xml
+C:\Users\glide\source\repos\vismaProject\vismaProject\obj\Release\vismaProject.csproj.AssemblyReference.cache
+C:\Users\glide\source\repos\vismaProject\vismaProject\obj\Release\vismaProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\glide\source\repos\vismaProject\vismaProject\obj\Release\vismaProject.csproj.CoreCompileInputs.cache
+C:\Users\glide\source\repos\vismaProject\vismaProject\obj\Release\vismaProject.csproj.CopyComplete
+C:\Users\glide\source\repos\vismaProject\vismaProject\obj\Release\vismaProject.exe
+C:\Users\glide\source\repos\vismaProject\vismaProject\obj\Release\vismaProject.pdb
