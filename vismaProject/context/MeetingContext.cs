@@ -20,7 +20,7 @@ namespace vismaProject.context
             options.Converters.Add(new JsonStringEnumConverter());
 
 
-            using (StreamReader r = new StreamReader("C:/Users/glide/Desktop/LaikinasGintares/visma/data.txt"))
+            using (StreamReader r = new StreamReader("json_file_path"))
             {
                 string json = r.ReadToEnd();
                 source = JsonSerializer.Deserialize<List<Meeting>>(json,options);
@@ -52,7 +52,7 @@ namespace vismaProject.context
             options.Converters.Add(new JsonStringEnumConverter());
 
             string jsonString = JsonSerializer.Serialize(meetings, new JsonSerializerOptions() { WriteIndented = true });
-            using (StreamWriter outputFile = new StreamWriter("C:/Users/glide/Desktop/LaikinasGintares/visma/data.txt"))
+            using (StreamWriter outputFile = new StreamWriter("json_file_path"))
             {
                 outputFile.WriteLine(jsonString);
             }
